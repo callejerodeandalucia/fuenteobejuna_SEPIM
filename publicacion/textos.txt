@@ -1,24 +1,21 @@
-TÃ­tulo (30)
-===========
+Título:
 
-DescripciÃ³n breve (80)
-======================
+GUÍA OFICIAL DE FUENTE OBEJUNA
 
-DescripciÃ³n completa (4000)
-===========================
 
-Etiquetas	
-===========
+Descripción breve:
 
-Notas de versiÃ³n
-=================
-VersiÃ³n inicial
+Guía con información de interés para visitar Fuente Obejuna.
 
-****aÃ±adir algo aquÃ­ si se publica en forma de actualizaciÃ³n***
+Descripción completa:
 
-Sitio web
-=========
+Con la aplicación Guía Oficial de Fuente Obejuna, llevará en su movil toda la información necesaria para conocer nuestra ciudad.
 
-Correo electrÃ³nico
-==================
+Se encuentra situado en la comarca del Valle del Guadiato situada a 96 kilómetros de la capital de provincia, Córdoba. Está compuesta por 14 aldeas: Alcornocal, Argallón, Cañada del Gamo, La Cardenchosa, La Coronada, Cuenca, Los Morenos, Navalcuervo, Ojuelos Altos, Ojuelos Bajos, Los Pánchez, Piconcillo, El Porvenir y Posadilla. 
+Es famoso por los sucesos históricos del siglo XV que inspiraron la obra teatral Fuenteovejuna escrita por Lope de Vega y publicada en 1619, donde se relata la indignación y sublevación del pueblo ante el abuso del Comendador.
+Respecto a su economía, en primer lugar el turismo con su máxima expresión en las respresentaciones teatrales de “Fuenteovejuna”, y gracias al enorme valor artístico y arquitectónico de los monumentos civiles y religiosos y por otra parte la agricultura y la ganadería, como queda reflejado en su Feria Agronoma y Ganadera “FAGA”.
+A través de esta aplicación encontrará todo lo necesario para que su estancia en Fuente Obejuna sea inolvidable y poder disfrutar de las múltiples posibilidades que le ofrece nuestra villa: para los amantes del turismo cultural, podrán conocer el Palacete Modernista, donde se encuentra ubicada la oficina de turismo; para aquellos que les apasione deleitarse degustando la gastronomía de cada destino, sabrán cómo hacerlo en sus bares y restaurantes. Para los apasionados por la arquitectura y arqueología, tienen a su alcance importantes restos que abarcan desde la prehistoria hasta la historia de hoy en día. Para los amantes de los minerales pueden visitar nuestras minas.  Para quienes sean amantes de la naturaleza, Fuente Obejuna les ofrece varios parajes naturales de su entorno, donde pasarán una jornada de paz y tranquilidad en un ambiente único.
+Por supuesto, también tendrán información de los  diversos festejos que se celebran a lo largo de todo el año.
+Esta guía les será muy útil para moverse por sus calles, ya que no solo indica su ubicación, sino que, mediante tecnología GPS, les guiará hasta los lugares solicitados. Además, con el servicio «Cerca de mí», los visitantes conocerán los puntos de interés cercanos a su posición.
 
+¡Conozcan Fuente Obejuna ! Les invitamos a ello. ¡No se arrepentirán!
